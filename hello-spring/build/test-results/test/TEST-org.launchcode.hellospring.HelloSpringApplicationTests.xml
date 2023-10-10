@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.hellospring.HelloSpringApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-05T00:49:44" hostname="DESKTOP-VSAAHI8" time="2.005">
+  <properties/>
+  <testcase name="contextLoads()" classname="org.launchcode.hellospring.HelloSpringApplicationTests" time="2.005"/>
+  <system-out><![CDATA[19:49:40.435 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.launchcode.hellospring.HelloSpringApplicationTests]: HelloSpringApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:49:40.755 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.launchcode.hellospring.HelloSpringApplication for test class org.launchcode.hellospring.HelloSpringApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-10-04T19:49:41.876-05:00  INFO 7504 --- [    Test worker] o.l.h.HelloSpringApplicationTests        : Starting HelloSpringApplicationTests using Java 17.0.8 with PID 7504 (started by jilli in C:\Users\jilli\OneDrive\Desktop\LaunchCode\hello-spring)
+2023-10-04T19:49:41.879-05:00  INFO 7504 --- [    Test worker] o.l.h.HelloSpringApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-10-04T19:49:44.793-05:00  INFO 7504 --- [    Test worker] o.l.h.HelloSpringApplicationTests        : Started HelloSpringApplicationTests in 3.508 seconds (process running for 6.773)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
